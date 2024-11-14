@@ -1,3 +1,6 @@
 spring:
   application:
     name: java-app-gateway
+
+server:
+  port: 8888
